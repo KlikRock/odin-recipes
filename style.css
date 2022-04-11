@@ -1,0 +1,25 @@
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size:
+}
+
+img {
+    width: 400px;
+    max-height: 100%;
+}
+
+ul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ol {
+    font-family: 'Courier New', Courier, monospace
+}
+
+h1, h2, h3 {
+    color: darkgray;
+}
+
+div {
+    max-width: 400px;
+}
